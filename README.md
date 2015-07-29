@@ -1,9 +1,4 @@
----
-language: none
-tags: site planning
-type: intro
-resources: 0
----
+
 
 ## Site Planning Introduction
 
