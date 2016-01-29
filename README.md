@@ -10,4 +10,4 @@ In this lesson we will learn about the process of planning a web site. At this p
   - Sitemaps
   - Wireframes
   - File Structure
-<a href='https://learn.co/lessons/fe-site-planning-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-site-planning-intro' title='Site Planning Introduction'>Site Planning Introduction</a> on Learn.co and start learning to code for free.</p>
